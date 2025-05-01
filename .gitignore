@@ -1,0 +1,12 @@
+*.i??
+*.orig
+.idea
+.project
+.classpath
+.settings
+target
+maven-eclipse.xml
+.externalToolBuilders
+*nb-configuration.xml
+node_modules
+**/checkstyle.cache
